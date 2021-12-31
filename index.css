@@ -1,0 +1,27 @@
+#cont{
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    background-color: aquamarine;
+    
+
+
+}
+#cont{
+    
+    height: 200px;
+    text-align: center;
+}
+#cont > div{
+    background-color: blanchedalmond;
+    width: 100px;
+    border-radius: 20px;
+    
+   
+  
+}
+#header{
+    text-align: center;
